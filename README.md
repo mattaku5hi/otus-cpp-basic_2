@@ -2,7 +2,7 @@
 
 ## 1. Description
 Greeting (hello world) utility.
-Developed by means of C++17 / Windows / MinGW.
+Developed by means of C++23 / Windows / MinGW.
 
 ## 2. Getting started
 ### 2.1 Install MinGW for Windows (be attentive when choosing the desired version!) 
